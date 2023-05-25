@@ -1,0 +1,1 @@
+# Leia quatro nomes e sorteie aleatoriamente um desses nomes

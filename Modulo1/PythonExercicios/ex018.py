@@ -1,0 +1,1 @@
+# Leia um ângulo qualquer e imprima na tela o valor do seno, cosseno e tangente desse ângulo
