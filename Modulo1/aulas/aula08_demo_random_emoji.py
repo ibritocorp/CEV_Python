@@ -1,3 +1,5 @@
+# Demonstração da importação de bibliotecas (módulos) Random e Emoji e uso das mesmas
+
 import random
 import emoji
 num = random.random()
