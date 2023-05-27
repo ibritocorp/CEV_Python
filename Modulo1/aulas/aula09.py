@@ -1,7 +1,15 @@
 # Manipulando Cadeias de Texto (Caracteres)
 
+
 # Cada caractere é alocado em um microespaço iniciando pelo índice 0
 frase = 'Curso em Vídeo Python'
+
+# Uso das aspas duplas três vezes serve para textos longos
+print("""Welcome! Are you completely new to programming?
+about why how to get started with Python. Fortunately
+an experienced programmer in any programming language
+(qhatever it may be) can pick up Python very quickly.
+Its also easy for beginners to use and learn, so jump in!""")
 
 
 # Fatiamento
@@ -41,8 +49,7 @@ print(frase.find('deo'))
 print(frase.find('android'))
 
 # Verifica se um caractere ou uma cadeia de caracteres existe e exibe (print) 'True' para positivo ou 'False' para negativo
-n = 'Curso' in frase
-print(n)
+print('Curso' in frase)
 
 
 # Transformação
@@ -83,6 +90,4 @@ print(frase1.lstrip())
 print(frase.split())
 
 # Juntar uma lista de cadeia de caracteres separando pelo caractere especificado
-frase2 = '-'.join(frase)
-frase2 = ''.join(frase)
-print(frase2)
+print('-'.join(frase))
