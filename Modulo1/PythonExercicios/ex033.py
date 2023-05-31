@@ -3,9 +3,9 @@ Faça um programa que leia três números e mostre qual é o maior e qual é o m
 """
 
 # Estrutura de leitura dos valores
-n1 = int(input('Digite um número inteiro: '))
-n2 = int(input('Digite outro número inteiro: '))
-n3 = int(input('Digite outro número inteiro: '))
+n1 = int(input('Digite um número inteiro: ').strip())
+n2 = int(input('Digite outro número inteiro: ').strip())
+n3 = int(input('Digite outro número inteiro: ').strip())
 
 # Definição de um valor como menor para conferência, nesse caso o n1
 menor = n1
