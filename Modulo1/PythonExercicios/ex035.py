@@ -2,6 +2,9 @@
 Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
 """
 
+# Meu código
+
+"""
 # Leitura dos valores por digitação do teclado
 reta1 = float(input('Digite o comprimento de uma reta: '))
 reta2 = float(input('Digite o comprimento de outra reta: '))
@@ -50,3 +53,17 @@ if tst1 == True and tst2 == True and tst3 == True:
     print('As retas formam um triângulo.')
 else:
     print('As retas não formam um triângulo.')
+"""
+
+# Código corrigido
+
+# Leitura dos valores por digitação do teclado
+reta1 = float(input('Digite o comprimento de uma reta: '))
+reta2 = float(input('Digite o comprimento de outra reta: '))
+reta3 = float(input('Digite o comprimento de outra reta: '))
+
+# Condicional para verificar se as retas podem formar o triângulo
+if reta1 < reta2 + reta3 and reta2 < reta1 + reta3 and reta3 < reta1 + reta2:
+    print('As retas PODEM formar um triângulo!')
+else:
+    print('As retas NÃO PODEM formar um triângulo!')
