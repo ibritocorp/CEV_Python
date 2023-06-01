@@ -3,10 +3,21 @@
 ## Iniciação da aprendizagem da linguagem Python do "Curso em Vídeo".
 Curso ministrado pelo mestre @gustavoguanabara
 - [x] Mundo 1
-* Introdução 
-    * Para que serve o Python?
-    * Instalando o Python3 e o IDLE
-    * Primeiros comandos em Python
+* Introdução, Instalações e Configurações Iniciais
+    * Aula 01
+    * Aula 02
+    * Aula 03
+
+* Primeiros Comandos
+    * Aula 04
+
+* Instalação do PyCharm e QPython3
+    * Aula 05
+        * Exercício \#001
+        * Exercício \#002
+
+* Tipos Primitivos e Saída de Dados
+    * 
 
 - [ ] Mundo 2
 - [ ] Mundo 3
