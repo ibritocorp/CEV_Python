@@ -1,2 +1,6 @@
-# Python 3 - Mundo 1 - Curso em Video
- Iniciação da aprendizagem da linguagem Python do "Curso em Vídeo".
+# Python 3 - Curso via *YouTube* - Curso em Video
+---
+## Iniciação da aprendizagem da linguagem Python do "Curso em Vídeo".
+- [x] Mundo 1
+- [ ] Mundo 2
+- [ ] Mundo 3
