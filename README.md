@@ -3,6 +3,9 @@
 ## Iniciação da aprendizagem da linguagem Python do "Curso em Vídeo".
 Curso ministrado pelo mestre @gustavoguanabara
 - [x] **Mundo 1**
+
+Clique em [Playlist](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&pp=iAQB) para visualizá-la.
+
 * Introdução, Instalações e Configurações Iniciais
     * Aula 01
     * Aula 02
@@ -68,6 +71,13 @@ Curso ministrado pelo mestre @gustavoguanabara
     * Aula 11
 
 - [ ] **Mundo 2**
+
+Clique em [Playlist](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&pp=iAQB) para visualizá-la.
+
 - [ ] **Mundo 3**
+
+Clique em [Playlist](https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&pp=iAQB) para visualizá-la.
+
 - [ ] **Exercícios**
-   Clique em [Playlist](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-) para visualizá-la.
+
+Clique em [Playlist](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-) para visualizá-la.
