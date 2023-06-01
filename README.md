@@ -2,7 +2,7 @@
 ---
 ## Iniciação da aprendizagem da linguagem Python do "Curso em Vídeo".
 Curso ministrado pelo mestre @gustavoguanabara
-- [x] Mundo 1
+- [x] **Mundo 1**
 * Introdução, Instalações e Configurações Iniciais
     * Aula 01
     * Aula 02
@@ -19,5 +19,5 @@ Curso ministrado pelo mestre @gustavoguanabara
 * Tipos Primitivos e Saída de Dados
     * 
 
-- [ ] Mundo 2
-- [ ] Mundo 3
+- [ ] **Mundo 2**
+- [ ] **Mundo 3**
