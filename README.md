@@ -70,5 +70,4 @@ Curso ministrado pelo mestre @gustavoguanabara
 - [ ] **Mundo 2**
 - [ ] **Mundo 3**
 - [ ] **Exercícios**
-
-Clique em [Playlist](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-) para visualizá-la.
+   Clique em [Playlist](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-) para visualizá-la.
