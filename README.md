@@ -74,6 +74,9 @@ Clique em [Playlist](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm
 
 Clique em [Playlist](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&pp=iAQB) para visualizá-la.
 
+* Condições Aninhadas
+    * Aula 12
+
 - [ ] **Mundo 3**
 
 Clique em [Playlist](https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&pp=iAQB) para visualizá-la.
