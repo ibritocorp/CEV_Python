@@ -11,7 +11,7 @@ Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
 from datetime import date
 
 anoNascimento = int(input('Digite o ano de nascimento: ').strip())
-anoAtual = 2017 #date.today().year
+anoAtual = date.today().year
 idade = anoAtual - anoNascimento
 
 if idade < 18:
