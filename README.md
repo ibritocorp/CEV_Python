@@ -76,6 +76,16 @@ Clique em [Playlist](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm
 
 * Condições Aninhadas
     * Aula 12
+        * Exercício \#036
+        * Exercício \#037
+        * Exercício \#038
+        * Exercício \#039
+        * Exercício \#040
+        * Exercício \#041
+        * Exercício \#042
+        * Exercício \#043
+        * Exercício \#044
+        * Exercício \#045
 
 - [ ] **Mundo 3**
 
