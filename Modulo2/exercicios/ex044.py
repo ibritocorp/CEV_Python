@@ -7,9 +7,7 @@ Elabore um programa que calcule o valor a ser pago por um produto considerando o
 - 3x ou mais no cartão: 20% de juros
 '''
 
-print('=' * 11, end='')
-print(' LOJAS GUANABARA ', end='')
-print('=' * 11)
+print(f'{" LOJAS GUANABARA ":=^40}')
 
 valCompra = float(input('Preço das compras: R$'))
 
