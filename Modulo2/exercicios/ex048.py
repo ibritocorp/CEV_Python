@@ -3,8 +3,10 @@ Faça um programa que calcule a soma entre todos os números ímpares que são m
 '''
 
 soma = 0
+cont = 0
 
-for cont in range(1, 501):
-    if cont % 2 != 0 and cont % 3 == 0:
-        soma += cont
-print(f'A soma dos números ímpares múltiplos de três é: {soma}.')
+for i in range(1, 501):
+    if i % 2 != 0 and i % 3 == 0:
+        cont += 1
+        soma += i
+print(f'A soma dos {cont} números ímpares múltiplos de três é: {soma}.')
