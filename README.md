@@ -87,6 +87,20 @@ Clique em [Playlist](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm
         * Exercício \#044
         * Exercício \#045
 
+* Laços de repetição, iterações de repetição ou simplesmente repetições
+    * Aula 13
+        * Exercício \#046
+        * Exercício \#047
+        * Exercício \#048
+        * Exercício \#049
+        * Exercício \#050
+        * Exercício \#051
+        * Exercício \#052
+        * Exercício \#053
+        * Exercício \#054
+        * Exercício \#055
+        * Exercício \#056
+
 - [ ] **Mundo 3**
 
 Clique em [Playlist](https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&pp=iAQB) para visualizá-la.
