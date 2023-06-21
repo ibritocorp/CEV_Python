@@ -7,7 +7,7 @@ from datetime import date
 contMaiorIdade = 0
 contMenorIdade = 0
 
-for i in range(1, 7):
+for i in range(0, 7):
     anoNascimento = int(input('Digite o ano de nascimento: ').strip())
     if date.today().year - anoNascimento >= 21:
         contMaiorIdade += 1

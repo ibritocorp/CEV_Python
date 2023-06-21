@@ -6,7 +6,7 @@ priTermo = int(input('Digite o primeiro termo de uma Progressão Aritmética: ')
 razao = int(input('Digite a razão de uma Progressão Aritmética: ').strip())
 n = priTermo
 
-for cont in range(1, 10):
+for cont in range(0, 10):
     print(f'{n} {"-> "}', end='')
     n += razao
 print('FIM')
