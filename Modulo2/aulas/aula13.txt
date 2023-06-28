@@ -6,6 +6,7 @@ Laços, repetições ou iterações
 ## Parte 1
 
 # Estrutura "for"
+    Estrutura de repetição com variável de controle.
 
 Exemplo:
 
