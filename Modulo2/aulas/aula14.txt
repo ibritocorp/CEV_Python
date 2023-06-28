@@ -1,0 +1,26 @@
+### Estruturas de Repetição ###
+
+Laços, repetições ou iterações
+
+
+## Parte 2
+
+# Estrutura "while"
+    Estrutura de repetição com teste lógico.
+
+Algorítmo:
+
+enquanto não (maçã)
+    passo
+pega
+
+Exemplo:
+
+while not maçã:
+    if chão:
+        passo
+    if buraco:
+        pula
+    if moeda:
+        pega
+pega
