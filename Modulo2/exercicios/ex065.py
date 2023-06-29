@@ -2,7 +2,6 @@
 Crie um programa que leia vários números interos pelo teclado. No final da execução mostre a média entre todos os valores e qual foi o maior e o menor valores lidos. O programa deve perguntar ao usuários se ele quer ou não continuar a digitar valores.
 '''
 
-num = 0
 cont = 0
 soma = 0
 maior = 0
