@@ -24,6 +24,4 @@ while opcao != 'N':
     
 media = soma / cont
 
-print(f'Soma {soma} - Qtd Números: {cont}')
-
 print(f'A média é {media}, o menor número digitado foi {menor} e o maior {maior}.')
