@@ -1,0 +1,16 @@
+### Estruturas de Repetição ###
+
+Laços, repetições ou iterações
+
+
+## Parte 3
+
+# Estrutura "while"
+    Estrutura de repetição com teste lógico.
+
+Algorítmo:
+
+
+
+Exemplo:
+
