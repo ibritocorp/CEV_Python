@@ -13,4 +13,4 @@ while True:
     soma += num
     contNum += 1
 
-print(f'A soma de {contNum} número(s) foi {soma}!')
+print(f'A soma de {contNum} valor(es) foi {soma}!')
