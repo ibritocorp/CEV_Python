@@ -88,7 +88,7 @@ Clique em [Playlist](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm
         * Exercício \#045
 
 * Laços de repetição, iterações de repetição ou simplesmente repetições
-    * Aula 13
+    * Aula 13 - For
         * Exercício \#046
         * Exercício \#047
         * Exercício \#048
@@ -100,6 +100,24 @@ Clique em [Playlist](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm
         * Exercício \#054
         * Exercício \#055
         * Exercício \#056
+
+    * Aula 14 - While (Condicional)
+        * Exercício \#057
+        * Exercício \#058
+        * Exercício \#059
+        * Exercício \#060
+        * Exercício \#061
+        * Exercício \#062
+        * Exercício \#063
+        * Exercício \#064
+        * Exercício \#065
+
+    * Aula 15 - While (Infinito)
+        * Exercício \#066
+        * Exercício \#067
+        * Exercício \#068
+        * Exercício \#069
+        * Exercício \#070
 
 - [ ] **Mundo 3**
 
