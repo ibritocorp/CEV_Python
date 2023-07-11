@@ -11,7 +11,12 @@ Laços, repetições ou iterações
 Algorítmo:
 
 enquanto não (maçã)
-    passo
+    se terra
+        passo
+    se vazio
+        pula
+    se moeda
+        pega
 pega
 
 Exemplo:
