@@ -6,7 +6,7 @@ Laços, repetições ou iterações
 ## Parte 3
 
 # Estrutura "while"
-    Estrutura de repetição com teste lógico.
+    Estrutura de repetição infinita com comando de interrupção.
 
 Algorítmo:
     enquanto não (maçã)
