@@ -118,6 +118,7 @@ Clique em [Playlist](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm
         * Exercício \#068
         * Exercício \#069
         * Exercício \#070
+        * Exercício \#071
 
 - [ ] **Mundo 3**
 
